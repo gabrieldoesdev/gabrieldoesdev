@@ -7,8 +7,6 @@
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabrieldoesdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldoesdev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldoesdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📊 Badges:
 
+[![@gabrieldev's Holopin board](https://holopin.io/api/user/board?user=gabrieldev)](https://holopin.io/@gabrieldev)
